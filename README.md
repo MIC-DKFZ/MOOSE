@@ -1,3 +1,9 @@
+> **About this repository.** This is the MIC-DKFZ copy of [MOOSE](https://github.com/ENHANCE-PET/MOOSE). Its branch
+> [`streaming-inference`](https://github.com/MIC-DKFZ/MOOSE/tree/streaming-inference) holds our suggestion for integrating
+> nnU-Net's streaming inference into MOOSE, proposed as a pull request to ENHANCE-PET/MOOSE. We are happy to refine and
+> adjust it together with the MOOSE maintainers until it matches their expectations.
+> For MOOSE itself, please use the [official repository](https://github.com/ENHANCE-PET/MOOSE).
+
 ![Moose-logo](Images/moose.png)
 
 ## MOOSE 3.2 🦌- Furiously Fast. Brutally Efficient. Unmatched Precision. 💪
